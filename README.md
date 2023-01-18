@@ -2,24 +2,6 @@
 
 common update1
 
-common update2
-
-common update3
-
-common update4
-
-common update5
-
-common update6
-
-common update7
-
-common update8
-
-common update9
-
-common update10
-
 edit Text1
 edit Text2
 edit Text3

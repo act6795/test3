@@ -1,5 +1,7 @@
 # test3
 
+common update
+
 edit Text1
 edit Text2
 edit Text3
